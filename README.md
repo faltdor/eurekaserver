@@ -1,3 +1,3 @@
 # eurekaserver
 
-## Access the URL http://localhost:8070 
+## Access URL http://localhost:8070 
